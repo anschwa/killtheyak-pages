@@ -1,4 +1,4 @@
-title: record your screen on OS X
+title: record my screen on OS X
 updated: 2015-12-10 14:50:39
 description: How to record your Mac's desktop with minimal additional software
 os: [macosx]
